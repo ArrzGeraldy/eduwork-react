@@ -6,7 +6,7 @@ const Scss = () => {
     <div className="mt">
       <h1>SCSS</h1>
       <button className="btn">
-        Button Scss <span class="btn-color">Color</span>
+        Button Scss <span className="btn-color">Color</span>
       </button>
     </div>
   );
